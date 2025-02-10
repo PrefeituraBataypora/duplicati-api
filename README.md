@@ -8,11 +8,13 @@ Esta ferramenta tem como intuito facilitar a utilização da API interna do Dupl
 
 ## Instalação
 
-Para instalar a ferramenta, basta clonar o repositório e instalar as dependências:
+Para instalar a ferramenta, basta clonar o repositório, instalar as dependências:
 
 - ```npm install```
 - ```npm run build```
 - ```npm start```
+
+E configurar o arquivo de variáveis de ambiente, conforme o arquivo .env.example
 
 ## Colaboradores
 
